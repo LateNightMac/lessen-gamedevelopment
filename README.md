@@ -22,3 +22,7 @@ Structuur van het level
 Bovenaan: timer
 Midden: start speler
 Onderaan: levens/power ups.
+
+## Conceptschets
+
+![Schets van het level](../schets.png)
