@@ -1,10 +1,11 @@
 # lessen-gamedevelopment
 ## Mijn aanpassing
 - README bijgewerkt op <24-11-2025>
-Conceptschets
-Titel: Fruity Peggle!
 
-Genre: Physics-based arcade puzzelgame
+Conceptschets
+Titel: Dodge simulator
+
+Genre: survival.
 
 Beschrijving
 De speler probeert alle projectiles te dodgen die op hem afgevuurt word, het doel is om zo lang mogelijk te blijven leven.
