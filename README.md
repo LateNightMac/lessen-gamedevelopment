@@ -25,4 +25,6 @@ Onderaan: levens/power ups.
 
 ## Conceptschets
 
-![Schets van het level](../schets.png)
+![Schets van het level](schets.png)
+
+
